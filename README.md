@@ -1,6 +1,3 @@
-<div align="center">
-  <img alt="Logo" src="https://raw.githubusercontent.com/dhirajsriram/dhirajsriram-portfolio/master/src/images/logo.png" width="100" />
-</div>
 <h1 align="center">
   dhirajsriram-portfolio
 </h1>
