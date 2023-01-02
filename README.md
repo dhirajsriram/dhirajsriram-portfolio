@@ -49,3 +49,9 @@
    ```sh
    npm run serve
    ```
+
+## Huge shoutouts
+
+Huge shoutouts to Britnny chiang for sharing the porfolio design from which this was inspired from check her out at
+[Britanny Chiang](https://brittanychiang.com/)
+[Github](https://github.com/bchiang7)
