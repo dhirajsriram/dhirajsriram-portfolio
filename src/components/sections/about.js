@@ -135,7 +135,7 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Dhiraj and I <span role="img" aria-label='heart'>💗</span> to design and develop solutions that empowers Usability, Accessibility, Performance, Search engine optimization and responsiveness.
+              Hello! My name is Dhiraj and I <span role="img" aria-label='heart'>💗</span> to design and develop solutions that empowers Usability, Accessibility, Performance, Search-engine Optimization and Responsiveness.
             </p>
 
             <p>
