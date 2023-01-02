@@ -4,10 +4,10 @@ title: 'npm-tabs'
 github: 'https://github.com/dhirajsriram/npm-tabs'
 external: 'https://www.npmjs.com/package/npm-tabs'
 tech:
-  - bash
-  - open source
+  - Bash
+  - Open Source
 company: ''
 showInProjects: true
 ---
 
-A shell script that autocompletes the commands based on the scripts declared in the package.json file. 
+A shell script that autocompletes the commands based on the scripts declared in the package.json file.
