@@ -193,13 +193,14 @@ const Nav = ({ isHome }) => {
           </>
         ) : (
           <>
-            <TransitionGroup component={null}>
-              {isMounted && (
-                <CSSTransition classNames={fadeClass} timeout={timeout}>
-                  <>{Logo}</>
-                </CSSTransition>
-              )}
-            </TransitionGroup>
+            <div>
+              <TransitionGroup component={null}>
+                {isMounted && (
+                  <CSSTransition classNames={fadeClass} timeout={timeout}>
+                    <>{Logo}</>
+                  </CSSTransition>
+                )}
+              </TransitionGroup></div>
 
             <StyledLinks>
               <ol>
@@ -215,10 +216,6 @@ const Nav = ({ isHome }) => {
                     ))}
                 </TransitionGroup>
               </ol>
-
-            </StyledLinks>
-
-            <StyledLinks>
               <TransitionGroup component={null}>
                 {isMounted && (
                   <CSSTransition classNames={fadeDownClass} timeout={timeout}>
@@ -229,14 +226,14 @@ const Nav = ({ isHome }) => {
                 )}
               </TransitionGroup>
             </StyledLinks>
-
-            <TransitionGroup component={null}>
-              {isMounted && (
-                <CSSTransition classNames={fadeClass} timeout={timeout}>
-                  <Menu />
-                </CSSTransition>
-              )}
-            </TransitionGroup>
+            <>
+              <TransitionGroup component={null}>
+                {isMounted && (
+                  <CSSTransition classNames={fadeClass} timeout={timeout}>
+                    <Menu />
+                  </CSSTransition>
+                )}
+              </TransitionGroup></>
           </>
         )}
       </StyledNav>
