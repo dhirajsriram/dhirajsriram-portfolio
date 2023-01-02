@@ -6,6 +6,7 @@ external: 'https://www.npmjs.com/package/react-accessible-searchbar'
 tech:
   - React
   - Open-Source
+
 company: ''
 showInProjects: true
 ---

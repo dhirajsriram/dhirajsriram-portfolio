@@ -7,6 +7,7 @@ tech:
   - Material UI
   - Scss
   - Netlify
+  - Design
 
 company: ''
 showInProjects: false

@@ -5,6 +5,7 @@ github: 'https://github.com/dhirajsriram/shipments'
 tech:
   - React
   - Material UI
+  - Design
 
 company: ''
 showInProjects: false

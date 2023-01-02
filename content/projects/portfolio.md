@@ -5,6 +5,7 @@ github: 'https://github.com/dhirajsriram/sriram-portfolio'
 tech:
   - React
   - Material UI
+  - Design
 
 company: ''
 showInProjects: false

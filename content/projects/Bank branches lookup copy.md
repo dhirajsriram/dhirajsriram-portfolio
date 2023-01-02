@@ -7,6 +7,7 @@ tech:
   - Angular Material
   - Karma
   - REST
+  - Design
 
 company: ''
 showInProjects: false
