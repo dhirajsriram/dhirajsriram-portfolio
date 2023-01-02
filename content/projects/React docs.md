@@ -4,7 +4,7 @@ title: 'React docs'
 github: 'https://github.com/reactjs/ta.reactjs.org/'
 external: 'https://reactjs.org/'
 tech:
-  - Rect
+  - React
   - Open Source
 company: ''
 showInProjects: true

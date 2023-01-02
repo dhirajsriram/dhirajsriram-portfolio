@@ -135,7 +135,7 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Dhiraj and I 💗 to design and develop solutions that empowers Usability, Accessibility, Performance, Search engine optimization and responsiveness.
+              Hello! My name is Dhiraj and I <span role="img" aria-label='heart'>💗</span> to design and develop solutions that empowers Usability, Accessibility, Performance, Search engine optimization and responsiveness.
             </p>
 
             <p>
@@ -158,7 +158,7 @@ const About = () => {
           <div className="wrapper">
             <StaticImage
               className="img"
-              src="../../images/me.jpg"
+              src={`../../images/me.jpg`}
               width={500}
               quality={95}
               formats={['AUTO', 'WEBP', 'AVIF']}

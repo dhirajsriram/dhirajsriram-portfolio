@@ -13,5 +13,3 @@ tech:
 ---
 
 An web application designed to provide information regarding the various species of Pokémon. Pokeapi served as the backend, delivering information onto the front-end.
-
-
