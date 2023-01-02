@@ -7,7 +7,7 @@ tech:
   - Tkinter
 
 company: ''
-showInProjects: false
+showInProjects: true
 ---
 
 A simple calculator application using the Tkinter module.
