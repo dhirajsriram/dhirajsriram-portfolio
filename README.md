@@ -5,9 +5,7 @@
   The fourth iteration of <a href="https://dhirajsriram.netlify.com" target="_blank">dhirajsriram.netlify.com</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
 </p>
 <p align="center">
-  <a href="https://app.netlify.com/sites/brittanychiang/deploys" target="_blank">
-    <img src="https://api.netlify.com/api/v1/badges/1963b488-7b78-48c9-9e2d-6fb5e47ab3af/deploy-status" alt="Netlify Status" />
-  </a>
+  [![Netlify Status](https://api.netlify.com/api/v1/badges/76018ea8-5a6e-4f49-ad24-91db595beef8/deploy-status)](https://app.netlify.com/sites/dhirajsriram/deploys)
 </p>
 
 ## 🛠 Installation & Set Up
