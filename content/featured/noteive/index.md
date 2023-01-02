@@ -11,4 +11,4 @@ tech:
   - GCloud
 ---
 
-Noteive helps you build beautiful, personalized, and interactive notes and boards to manage your work. Noteive helps you add notes and feel the accomplishment of getting them to the finish line. 
+Noteive helps you build beautiful, personalized, and interactive notes and boards to manage your day-day. Noteive keeps you reminded focused and lets you feel the accomplishment of getting tasks to the finish line.

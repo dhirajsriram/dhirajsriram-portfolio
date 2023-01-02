@@ -7,7 +7,6 @@ external: 'https://pokedex-info.netlify.app/'
 tech:
   - React
   - Material UI
-  - React Router
   - PokeAPI
   - Netlify
 ---
