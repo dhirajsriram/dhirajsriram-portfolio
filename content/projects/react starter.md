@@ -12,4 +12,4 @@ company: ''
 showInProjects: false
 ---
 
-A bootstrapped React project with material UI and React testing library pre-loaded.
+A bootstrapped React project with material UI and React testing library preloaded.

@@ -12,4 +12,4 @@ company: ''
 showInProjects: false
 ---
 
-A react application that presents a list of blogs to the user in the form of a list. The app can Search, Add or delete and Sort blogs by Categories.
+A React application that presents a list of blogs to the user in the form of a list. The app can Search, Add or delete and Sort blogs by Categories.

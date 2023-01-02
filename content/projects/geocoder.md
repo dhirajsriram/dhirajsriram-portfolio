@@ -12,4 +12,4 @@ company: ''
 showInProjects: false
 ---
 
-A nodeJs application that handles all the CRUD operation and also geocoding and reverse-geocoding
+A NodeJs application that handles all the CRUD operation and also geocoding and reverse-geocoding

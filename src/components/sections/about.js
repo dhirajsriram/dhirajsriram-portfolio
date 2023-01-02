@@ -135,16 +135,16 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Dhiraj and I <span role="img" aria-label='heart'>💗</span> to design and develop solutions that empowers Usability, Accessibility, Performance, Search-engine Optimization and Responsiveness.
+              Hello! My name is Dhiraj and I <span role="img" aria-label='heart'>💗</span> to design and develop solutions that empower Usability, Accessibility, Performance, Search-engine Optimization and Responsiveness.
             </p>
 
             <p>
               I’ve had the privilege of working at{' '}
               <a href="https://www.mastek.com/">a consulting company</a>,{' '}
-              <a href="https://saucelabs.com//">a automation testing company</a>, and{' '}
+              <a href="https://saucelabs.com//">an automation testing company</a>, and{' '}
               <a href="https://everphone.com/en/">a startup company.</a>{' '}My
               main focus these days is building reliable, performant and accessible products and digital
-              experiences at <a href="https://hellofresh.com/">Hellofresh</a>.
+              experiences at <a href="https://hellofresh.com/">HelloFresh</a>.
             </p>
             <p>Here are a few technologies I’ve been working with recently:</p>
           </div>

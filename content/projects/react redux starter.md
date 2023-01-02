@@ -10,4 +10,4 @@ company: ''
 showInProjects: false
 ---
 
-A bootstrapped React project with redux baked in to avoid.
+A bootstrapped React project with Redux baked in to avoid.
