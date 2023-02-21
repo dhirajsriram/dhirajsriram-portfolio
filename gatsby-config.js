@@ -24,7 +24,7 @@ module.exports = {
         short_name: 'Dhiraj Sriram',
         start_url: '/',
         background_color: config.colors.navy,
-        theme_color: config.colors.green,
+        theme_color: config.colors.navy,
         display: 'standalone',
         icon: 'src/images/logo.png',
       },
