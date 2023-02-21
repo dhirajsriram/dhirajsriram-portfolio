@@ -125,7 +125,17 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'TypeScript', 'React', 'Angular', 'Node.js', 'WordPress', 'Joomla', 'PHP', 'Docker'];
+  const skills = [
+    'JavaScript (ES6+)',
+    'TypeScript',
+    'React',
+    'Angular',
+    'Node.js',
+    'WordPress',
+    'Joomla',
+    'PHP',
+    'Docker',
+  ];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -135,16 +145,21 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Dhiraj and I <span role="img" aria-label='heart'>💗</span> to design and develop solutions that empower Usability, Accessibility, Performance, Search-engine Optimization and Responsiveness.
+              Hello! My name is Dhiraj and I{' '}
+              <span role="img" aria-label="heart">
+                💗
+              </span>{' '}
+              to design and develop solutions that empower Usability, Accessibility, Performance,
+              Search-engine Optimization and Responsiveness.
             </p>
 
             <p>
               I’ve had the privilege of working at{' '}
               <a href="https://www.mastek.com/">a consulting company</a>,{' '}
               <a href="https://saucelabs.com//">an automation testing company</a>, and{' '}
-              <a href="https://everphone.com/en/">a startup company.</a>{' '}My
-              main focus these days is building reliable, performant and accessible products and digital
-              experiences at <a href="https://hellofresh.com/">HelloFresh</a>.
+              <a href="https://everphone.com/en/">a startup company.</a> My main focus these days is
+              building reliable, performant and accessible products and digital experiences at{' '}
+              <a href="https://hellofresh.com/">HelloFresh</a>.
             </p>
             <p>Here are a few technologies I’ve been working with recently:</p>
           </div>
@@ -159,7 +174,7 @@ const About = () => {
             <StaticImage
               className="img"
               src={`../../images/me.jpg`}
-              width={500}
+              width={300}
               quality={95}
               formats={['AUTO', 'WEBP', 'AVIF']}
               alt="Headshot"
